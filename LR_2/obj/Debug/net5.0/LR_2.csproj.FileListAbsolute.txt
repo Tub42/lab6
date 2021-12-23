@@ -1,0 +1,32 @@
+E:\лабы и курсач\2 курс\ИТ\лабы\LR_2\LR_2\bin\Debug\net5.0\LR_2.exe
+E:\лабы и курсач\2 курс\ИТ\лабы\LR_2\LR_2\bin\Debug\net5.0\LR_2.deps.json
+E:\лабы и курсач\2 курс\ИТ\лабы\LR_2\LR_2\bin\Debug\net5.0\LR_2.runtimeconfig.json
+E:\лабы и курсач\2 курс\ИТ\лабы\LR_2\LR_2\bin\Debug\net5.0\LR_2.runtimeconfig.dev.json
+E:\лабы и курсач\2 курс\ИТ\лабы\LR_2\LR_2\bin\Debug\net5.0\LR_2.dll
+E:\лабы и курсач\2 курс\ИТ\лабы\LR_2\LR_2\bin\Debug\net5.0\ref\LR_2.dll
+E:\лабы и курсач\2 курс\ИТ\лабы\LR_2\LR_2\bin\Debug\net5.0\LR_2.pdb
+E:\лабы и курсач\2 курс\ИТ\лабы\LR_2\LR_2\obj\Debug\net5.0\LR_2.csprojAssemblyReference.cache
+E:\лабы и курсач\2 курс\ИТ\лабы\LR_2\LR_2\obj\Debug\net5.0\LR_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\лабы и курсач\2 курс\ИТ\лабы\LR_2\LR_2\obj\Debug\net5.0\LR_2.AssemblyInfoInputs.cache
+E:\лабы и курсач\2 курс\ИТ\лабы\LR_2\LR_2\obj\Debug\net5.0\LR_2.AssemblyInfo.cs
+E:\лабы и курсач\2 курс\ИТ\лабы\LR_2\LR_2\obj\Debug\net5.0\LR_2.csproj.CoreCompileInputs.cache
+E:\лабы и курсач\2 курс\ИТ\лабы\LR_2\LR_2\obj\Debug\net5.0\LR_2.dll
+E:\лабы и курсач\2 курс\ИТ\лабы\LR_2\LR_2\obj\Debug\net5.0\ref\LR_2.dll
+E:\лабы и курсач\2 курс\ИТ\лабы\LR_2\LR_2\obj\Debug\net5.0\LR_2.pdb
+E:\лабы и курсач\2 курс\ИТ\лабы\LR_2\LR_2\obj\Debug\net5.0\LR_2.genruntimeconfig.cache
+F:\ИнфТех\LR_2\LR_2\bin\Debug\net5.0\LR_2.exe
+F:\ИнфТех\LR_2\LR_2\bin\Debug\net5.0\LR_2.deps.json
+F:\ИнфТех\LR_2\LR_2\bin\Debug\net5.0\LR_2.runtimeconfig.json
+F:\ИнфТех\LR_2\LR_2\bin\Debug\net5.0\LR_2.runtimeconfig.dev.json
+F:\ИнфТех\LR_2\LR_2\bin\Debug\net5.0\LR_2.dll
+F:\ИнфТех\LR_2\LR_2\bin\Debug\net5.0\ref\LR_2.dll
+F:\ИнфТех\LR_2\LR_2\bin\Debug\net5.0\LR_2.pdb
+F:\ИнфТех\LR_2\LR_2\obj\Debug\net5.0\LR_2.csprojAssemblyReference.cache
+F:\ИнфТех\LR_2\LR_2\obj\Debug\net5.0\LR_2.GeneratedMSBuildEditorConfig.editorconfig
+F:\ИнфТех\LR_2\LR_2\obj\Debug\net5.0\LR_2.AssemblyInfoInputs.cache
+F:\ИнфТех\LR_2\LR_2\obj\Debug\net5.0\LR_2.AssemblyInfo.cs
+F:\ИнфТех\LR_2\LR_2\obj\Debug\net5.0\LR_2.csproj.CoreCompileInputs.cache
+F:\ИнфТех\LR_2\LR_2\obj\Debug\net5.0\LR_2.dll
+F:\ИнфТех\LR_2\LR_2\obj\Debug\net5.0\ref\LR_2.dll
+F:\ИнфТех\LR_2\LR_2\obj\Debug\net5.0\LR_2.pdb
+F:\ИнфТех\LR_2\LR_2\obj\Debug\net5.0\LR_2.genruntimeconfig.cache
